@@ -25,7 +25,7 @@ const { chains, provider } = configureChains(
 );
 
 const { connectors } = getDefaultWallets({
-  appName: 'Sakaba',
+  appName: 'Web3 Starter',
   chains
 });
 
